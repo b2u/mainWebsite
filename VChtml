@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <div>
+      <img class="title" src="b2utitle.png"/>
+    </div>
+    <div>
+      <img class="back" src="back.png"/>
+    </div>
+  </body>
+</html>
