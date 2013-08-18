@@ -1,0 +1,21 @@
+.title {
+  height: 100px;
+  position: center;
+  clear: both;
+}
+
+body {
+  background-image: url("background.png");
+  background-size: contain;
+  position: relative;
+  margin: 0 auto;
+  min-width: 1024px;
+  height: auto;
+}
+ 
+.back {
+  height: 300px;
+  position: relative;
+  float: left;
+}
+
